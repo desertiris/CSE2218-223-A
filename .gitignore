@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# IntelliJ Files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# MacOS Files
+.DS_Store
+

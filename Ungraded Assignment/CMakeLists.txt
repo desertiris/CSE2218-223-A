@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.23)
+project(ungraded_assignment)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Solution_1 solution_1.cpp)
+add_executable(Solution_2 solution_2.cpp)
+add_executable(Solution_3 solution_3.cpp)
+add_executable(Solution_4 solution_4.cpp)
+add_executable(Solution_5 solution_5.cpp)
+add_executable(Solution_6 solution_6.cpp)
+add_executable(Solution_7 solution_7.cpp)
