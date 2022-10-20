@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Function for converting every alphaetical character to lowercase
+// Function for converting every alphabetical character to lowercase
 void conv_to_lower(char *string) {
     for (int i = 0; string[i] != '\0'; ++i) {
         if (string[i] >= 'A' && string[i] <= 'Z') {
