@@ -40,3 +40,5 @@
 # MacOS Files
 .DS_Store
 
+cmake-build-debug
+
