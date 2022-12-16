@@ -12,6 +12,10 @@ add_executable(AssignmentOne.SolutionTwo Assignment-1/solution_2.cpp)
 add_executable(AssignmentTwo.SolutionOne Assignment-2/solution_1.cpp)
 add_executable(AssignmentTwo.SolutionTwo Assignment-2/solution_2.cpp)
 
+# Assignment 3
+add_executable(AssignmentThree.SolutionOne Assignment-3/solution_1.cpp)
+add_executable(AssignmentThree.SolutionTwo Assignment-3/solution_2.cpp)
+
 # Online 1
 add_executable(OnlineOne.SolutionOne Online-1/solution_1.cpp)
 add_executable(OnlineOne.SolutionTwo Online-1/solution_2.cpp)
