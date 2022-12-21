@@ -16,6 +16,10 @@ add_executable(AssignmentTwo.SolutionTwo Assignment-2/solution_2.cpp)
 add_executable(AssignmentThree.SolutionOne Assignment-3/solution_1.cpp)
 add_executable(AssignmentThree.SolutionTwo Assignment-3/solution_2.cpp)
 
+# Assignment 4
+add_executable(AssignmentFour.SolutionOne Assignment-4/solution_1.cpp)
+add_executable(AssignmentFour.SolutionTwo Assignment-4/solution_2.cpp)
+
 # Online 1
 add_executable(OnlineOne.SolutionOne Online-1/solution_1.cpp)
 add_executable(OnlineOne.SolutionTwo Online-1/solution_2.cpp)
@@ -25,6 +29,9 @@ add_executable(OnlineTwo.SolutionOne Online-2/solution.cpp)
 
 # Online 3
 add_executable(OnlineThree.SolutionOne Online-3/solution.cpp)
+
+# Online 4
+add_executable(OnlineFour.SolutionOne Online-4/solution.cpp)
 
 # Ungraded Assignment
 add_executable(UngradedAssignment.SolutionOne UngradedAssignment/solution_1.cpp)
