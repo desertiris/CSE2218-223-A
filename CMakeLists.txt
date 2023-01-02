@@ -45,3 +45,8 @@ add_executable(UngradedAssignment.SolutionSeven UngradedAssignment/solution_7.cp
 add_executable(UngradedAssignment.SolutionEight UngradedAssignment/solution_8.cpp)
 add_executable(UngradedAssignment.SolutionNine UngradedAssignment/solution_9.cpp)
 add_executable(UngradedAssignment.SolutionTen UngradedAssignment/solution_10.cpp)
+
+
+# Final Test
+add_executable(FinalTest.SolutionOne Final-Exam/solution_1.cpp)
+add_executable(FinalTest.SolutionTwo Final-Exam/solution_2.cpp)
